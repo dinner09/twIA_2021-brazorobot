@@ -12,7 +12,7 @@ Nuestra idea de proyecto es crear un brazo robótico capaz de ser controlado por
 
 4. Alvaro Lopez Villarroel-AlvaroLVillarroel
 
-5. Eunchan kang-dinner09
+5. Eunchan Kang-dinner09
 
 ## Objetivos del trabajo
 
