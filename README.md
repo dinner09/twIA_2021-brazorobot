@@ -1,6 +1,6 @@
 # Brazo Robotico controlado por guante
 
-Nuestra idea de proyecto es crear un brazo robotico capaz de ser controlado por un guante, dicho guante sera diseñado y programado por nosotros. Su mecanismo, consistira en la lectura de nuestra mano, a partir de la cual el brazo se movera de una forma u otra en funcion de la posición de nuestros dedos. Para ello, utilizaremos y programaremos en disitos programas informaticos como C++ y Arduino.
+Nuestra idea de proyecto es crear un brazo robótico capaz de ser controlado por un guante, dicho guante sera diseñado y programado por nosotros. Su mecanismo, consistirá en la lectura de nuestra mano, a partir de la cual el brazo se moverá de una forma u otra en funcion de la posición de nuestros dedos. Para ello, utilizaremos y programaremos en disitos programas informaticos como C++ y Arduino.
 
 ## Integrantes del equipo
 
@@ -27,5 +27,5 @@ Nuestra idea de proyecto es crear un brazo robotico capaz de ser controlado por 
 5. base
 
 Cada una de estas partes seran controladas con el uso de un guante que controlaremos manualmente con nuestra mano.
-Dependiendo la extremidad que movamos de la mano, se interactuara con las distintas partes de nuestro brazo robotico.
+Dependiendo la extremidad que movamos de la mano, se interactuara con las distintas partes de nuestro brazo robótico.
 
